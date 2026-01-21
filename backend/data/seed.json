@@ -1,0 +1,140 @@
+{
+  "store": {
+    "name": "Acropaq Shop",
+    "swap_link_template": null,
+    "payment_link_template": null,
+    "invite_link_template": null,
+    "default_currency_code": "eur",
+    "currencies": ["eur", "gbp"]
+  },
+  "users": [
+    {
+      "email": "admin@acropaq.com",
+      "password": "admin123",
+      "role": "admin",
+      "first_name": "Admin",
+      "last_name": "Acropaq"
+    }
+  ],
+  "regions": [
+    {
+      "name": "Belgium",
+      "currency_code": "eur",
+      "tax_rate": 21,
+      "tax_code": null,
+      "countries": ["be"],
+      "payment_providers": ["manual", "stripe"],
+      "fulfillment_providers": ["manual"]
+    },
+    {
+      "name": "Netherlands",
+      "currency_code": "eur",
+      "tax_rate": 21,
+      "tax_code": null,
+      "countries": ["nl"],
+      "payment_providers": ["manual", "stripe"],
+      "fulfillment_providers": ["manual"]
+    },
+    {
+      "name": "Germany",
+      "currency_code": "eur",
+      "tax_rate": 19,
+      "tax_code": null,
+      "countries": ["de"],
+      "payment_providers": ["manual", "stripe"],
+      "fulfillment_providers": ["manual"]
+    },
+    {
+      "name": "France",
+      "currency_code": "eur",
+      "tax_rate": 20,
+      "tax_code": null,
+      "countries": ["fr"],
+      "payment_providers": ["manual", "stripe"],
+      "fulfillment_providers": ["manual"]
+    },
+    {
+      "name": "Poland",
+      "currency_code": "eur",
+      "tax_rate": 23,
+      "tax_code": null,
+      "countries": ["pl"],
+      "payment_providers": ["manual", "stripe"],
+      "fulfillment_providers": ["manual"]
+    },
+    {
+      "name": "Italy",
+      "currency_code": "eur",
+      "tax_rate": 22,
+      "tax_code": null,
+      "countries": ["it"],
+      "payment_providers": ["manual", "stripe"],
+      "fulfillment_providers": ["manual"]
+    },
+    {
+      "name": "Czech Republic",
+      "currency_code": "eur",
+      "tax_rate": 21,
+      "tax_code": null,
+      "countries": ["cz"],
+      "payment_providers": ["manual", "stripe"],
+      "fulfillment_providers": ["manual"]
+    },
+    {
+      "name": "United Kingdom",
+      "currency_code": "gbp",
+      "tax_rate": 20,
+      "tax_code": null,
+      "countries": ["gb"],
+      "payment_providers": ["manual", "stripe"],
+      "fulfillment_providers": ["manual"]
+    },
+    {
+      "name": "EU OSS (Other EU Countries)",
+      "currency_code": "eur",
+      "tax_rate": 21,
+      "tax_code": null,
+      "countries": ["at", "bg", "cy", "dk", "ee", "es", "fi", "gr", "hr", "hu", "ie", "lt", "lu", "lv", "mt", "pt", "ro", "se", "si", "sk"],
+      "payment_providers": ["manual", "stripe"],
+      "fulfillment_providers": ["manual"]
+    }
+  ],
+  "shipping_options": [
+    {
+      "name": "Standard Shipping",
+      "region_id": null,
+      "provider_id": "manual",
+      "data": {},
+      "price_type": "flat_rate",
+      "amount": 995,
+      "is_return": false,
+      "admin_only": false
+    },
+    {
+      "name": "Express Shipping",
+      "region_id": null,
+      "provider_id": "manual",
+      "data": {},
+      "price_type": "flat_rate",
+      "amount": 1495,
+      "is_return": false,
+      "admin_only": false
+    },
+    {
+      "name": "Free Shipping (Orders over €100)",
+      "region_id": null,
+      "provider_id": "manual",
+      "data": {},
+      "price_type": "flat_rate",
+      "amount": 0,
+      "is_return": false,
+      "admin_only": false,
+      "requirements": [
+        {
+          "type": "min_subtotal",
+          "amount": 10000
+        }
+      ]
+    }
+  ]
+}
