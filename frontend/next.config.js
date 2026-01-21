@@ -1,9 +1,13 @@
 /** @type {import('next').NextConfig} */
+
+const isProduction = process.env.NODE_ENV === "production";
+const basePath = isProduction ? "/acroshop" : "";
+
 const nextConfig = {
   reactStrictMode: true,
   output: "standalone",
-  basePath: "/acroshop",
-  assetPrefix: "/acroshop",
+  basePath: basePath,
+  assetPrefix: basePath,
   images: {
     domains: [
       "localhost",
