@@ -2,6 +2,8 @@
 const nextConfig = {
   reactStrictMode: true,
   output: "standalone",
+  basePath: "/acroshop",
+  assetPrefix: "/acroshop",
   images: {
     domains: [
       "localhost",
