@@ -1,0 +1,26 @@
+[
+  {
+    "id": 276940750906,
+    "handle": "frontpage",
+    "title": "Home page",
+    "updated_at": "2025-09-10T10:42:40+02:00",
+    "body_html": null,
+    "published_at": "2024-12-11T17:44:11+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": null,
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/276940750906"
+  },
+  {
+    "id": 277405728826,
+    "handle": "unsere-beliebtesten-produkte",
+    "title": "Unsere Bestseller",
+    "updated_at": "2026-01-21T13:14:16+01:00",
+    "body_html": "",
+    "published_at": "2025-01-16T10:09:27+01:00",
+    "sort_order": "manual",
+    "template_suffix": "",
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277405728826"
+  }
+]

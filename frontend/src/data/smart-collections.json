@@ -1,0 +1,1594 @@
+[
+  {
+    "id": 277467070522,
+    "handle": "aktendeckel",
+    "title": "Aktendeckel",
+    "updated_at": "2025-09-23T17:42:05+02:00",
+    "body_html": "",
+    "published_at": "2025-01-22T10:38:55+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Aktendeckel"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277467070522"
+  },
+  {
+    "id": 277344485434,
+    "handle": "aktenvernichter",
+    "title": "Aktenvernichter",
+    "updated_at": "2025-12-03T11:15:45+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:25:22+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Aktenvernichter"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344485434",
+    "image": {
+      "created_at": "2025-03-05T15:38:46+01:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0571/7930/8090/collections/image_20.png?v=1747296734"
+    }
+  },
+  {
+    "id": 277344518202,
+    "handle": "anspitzer",
+    "title": "Anspitzer",
+    "updated_at": "2025-12-24T13:19:08+01:00",
+    "body_html": "<h2><span style=\"color: #000000; font-family: Helvetica; font-size: medium;\">Effizienz für Schulen – robust und zuverlässig.</span></h2>\n<p><span style=\"color: #000000; font-family: Helvetica; font-size: medium;\">Speziell für den intensiven Gebrauch in Schulen entwickelt, sind unsere elektrischen Anspitzer in Belgien und den Niederlanden besonders beliebt. Sie verbinden Langlebigkeit mit hoher Leistung.</span></p>",
+    "published_at": "2025-01-10T13:25:37+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Anspitzer"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344518202",
+    "image": {
+      "created_at": "2025-03-06T09:31:08+01:00",
+      "alt": null,
+      "width": 750,
+      "height": 751,
+      "src": "https://cdn.shopify.com/s/files/1/0571/7930/8090/collections/image_23.png?v=1745249405"
+    }
+  },
+  {
+    "id": 277467365434,
+    "handle": "arbeit-und-bewegung",
+    "title": "Arbeit und Bewegung",
+    "updated_at": "2025-12-19T13:20:23+01:00",
+    "body_html": "",
+    "published_at": "2025-01-22T10:42:35+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Arbeit und Bewegung"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277467365434"
+  },
+  {
+    "id": 277820080186,
+    "handle": "arbeitsergonomie",
+    "title": "Arbeitsergonomie",
+    "updated_at": "2026-01-15T13:16:12+01:00",
+    "body_html": "",
+    "published_at": "2025-02-20T11:15:34+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "arbeitsergonomie",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Arbeitsergonomie"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277820080186"
+  },
+  {
+    "id": 277343600698,
+    "handle": "buch-safe",
+    "title": "Buch safe",
+    "updated_at": "2025-09-10T10:42:40+02:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:10:04+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Buch safe"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277343600698"
+  },
+  {
+    "id": 277466611770,
+    "handle": "buntstifte",
+    "title": "Buntstifte",
+    "updated_at": "2025-12-03T08:02:54+01:00",
+    "body_html": "",
+    "published_at": "2025-01-22T10:31:00+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Buntstifte"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277466611770"
+  },
+  {
+    "id": 277343797306,
+    "handle": "buro-diverses",
+    "title": "Büro Diverses",
+    "updated_at": "2025-12-03T07:34:33+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:11:34+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Büro Diverses"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277343797306"
+  },
+  {
+    "id": 277467267130,
+    "handle": "burogerate-und-zubehor",
+    "title": "Bürogeräte und Zubehör",
+    "updated_at": "2026-01-21T13:14:16+01:00",
+    "body_html": "",
+    "published_at": "2025-01-22T10:41:20+01:00",
+    "sort_order": "manual",
+    "template_suffix": "buerogeraete",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Bürogeräte und Zubehör"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277467267130"
+  },
+  {
+    "id": 277819981882,
+    "handle": "cash-handling",
+    "title": "Cash handling",
+    "updated_at": "2026-01-20T13:16:19+01:00",
+    "body_html": "",
+    "published_at": "2025-02-20T11:13:01+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "cash-handling",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Cash handling"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277819981882"
+  },
+  {
+    "id": 277467103290,
+    "handle": "dieverses",
+    "title": "Dieverses",
+    "updated_at": "2026-01-07T13:15:31+01:00",
+    "body_html": "",
+    "published_at": "2025-01-22T10:39:33+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Dieverses"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277467103290"
+  },
+  {
+    "id": 277466677306,
+    "handle": "dokumentenmappen",
+    "title": "Dokumentenmappen",
+    "updated_at": "2026-01-21T13:14:16+01:00",
+    "body_html": "",
+    "published_at": "2025-01-22T10:33:45+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": true,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Dokumentenmappen"
+      },
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Dokumentenmappe"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277466677306",
+    "image": {
+      "created_at": "2025-03-06T10:21:34+01:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0571/7930/8090/collections/image_24.png?v=1747297459"
+    }
+  },
+  {
+    "id": 277820014650,
+    "handle": "elektronikzubehor",
+    "title": "Elektronikzubehör",
+    "updated_at": "2026-01-04T13:15:19+01:00",
+    "body_html": "",
+    "published_at": "2025-02-20T11:14:50+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "elektronikzubehoer",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Elektronikzubehör"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277820014650"
+  },
+  {
+    "id": 277343633466,
+    "handle": "etiketten",
+    "title": "Etiketten",
+    "updated_at": "2025-12-03T10:45:32+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:10:24+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Etiketten"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277343633466"
+  },
+  {
+    "id": 277466808378,
+    "handle": "fahrrad-zubehor",
+    "title": "Fahrrad-Zubehör",
+    "updated_at": "2025-12-19T13:20:23+01:00",
+    "body_html": "",
+    "published_at": "2025-01-22T10:35:06+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Fahrrad-Zubehör"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277466808378"
+  },
+  {
+    "id": 277466873914,
+    "handle": "fahrradpumpe",
+    "title": "Fahrradpumpe",
+    "updated_at": "2025-12-03T10:39:07+01:00",
+    "body_html": "",
+    "published_at": "2025-01-22T10:35:58+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Fahrradpumpe"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277466873914"
+  },
+  {
+    "id": 277466841146,
+    "handle": "fahrradsattel",
+    "title": "Fahrradsättel",
+    "updated_at": "2025-09-23T17:43:10+02:00",
+    "body_html": "",
+    "published_at": "2025-01-22T10:35:39+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Fahrradsättel"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277466841146"
+  },
+  {
+    "id": 277466906682,
+    "handle": "fahrradtaschen",
+    "title": "Fahrradtaschen",
+    "updated_at": "2025-09-23T17:43:07+02:00",
+    "body_html": "",
+    "published_at": "2025-01-22T10:36:29+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Fahrradtaschen"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277466906682"
+  },
+  {
+    "id": 277344288826,
+    "handle": "falschgeld-detektoren",
+    "title": "Falschgeld-Detektoren",
+    "updated_at": "2025-12-03T06:12:20+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:20:38+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Falschgeld-Detektoren"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344288826"
+  },
+  {
+    "id": 277466710074,
+    "handle": "fenster-ordner",
+    "title": "Fenster-Ordner",
+    "updated_at": "2025-09-10T10:42:44+02:00",
+    "body_html": "",
+    "published_at": "2025-01-22T10:34:17+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Fenster-Ordner"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277466710074"
+  },
+  {
+    "id": 277467037754,
+    "handle": "fitness",
+    "title": "Fitness",
+    "updated_at": "2025-12-03T07:35:46+01:00",
+    "body_html": "",
+    "published_at": "2025-01-22T10:37:58+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Fitness"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277467037754"
+  },
+  {
+    "id": 277343699002,
+    "handle": "fotoalben",
+    "title": "Fotoalben",
+    "updated_at": "2025-09-23T17:43:48+02:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:10:43+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Fotoalben"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277343699002",
+    "image": {
+      "created_at": "2025-04-21T17:30:35+02:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0571/7930/8090/collections/image_30.png?v=1747297207"
+    }
+  },
+  {
+    "id": 277344878650,
+    "handle": "fussstutzen",
+    "title": "Fußstützen",
+    "updated_at": "2026-01-15T13:16:12+01:00",
+    "body_html": "<h2><span style=\"color: #000000; font-family: Helvetica; font-size: medium;\">Meistgekaufte Fußstütze auf amazon.fr – für ergonomischen Komfort.</span></h2>\n<p><span style=\"color: #000000; font-family: Helvetica; font-size: medium;\">Unsere ergonomischen Fußstützen fördern eine gesunde Sitzhaltung. Perfekt für langes Arbeiten am Schreibtisch.</span></p>",
+    "published_at": "2025-01-10T13:33:41+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Fußstützen"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344878650",
+    "image": {
+      "created_at": "2025-03-05T14:00:14+01:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0571/7930/8090/collections/image_17.png?v=1747297311"
+    }
+  },
+  {
+    "id": 277344124986,
+    "handle": "geldkassetten",
+    "title": "Geldkassetten",
+    "updated_at": "2026-01-20T13:16:19+01:00",
+    "body_html": "<h2><span style=\"color: #000000; font-family: Helvetica; font-size: medium;\">Sicherheit trifft auf Funktionalität – ein Bestseller auf BOL.com.</span></h2>\n<p><span style=\"color: #000000; font-family: Helvetica; font-size: medium;\">Unsere Geldkassetten sind eine praktische und sichere Lösung für die Aufbewahrung von Bargeld. Als Bestseller auf großen Marktplätzen wie auf BOL.com stehen sie für Verlässlichkeit und Qualität.</span></p>",
+    "published_at": "2025-01-10T13:19:10+01:00",
+    "sort_order": "manual",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Geldkassetten"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344124986",
+    "image": {
+      "created_at": "2025-03-05T13:58:57+01:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0571/7930/8090/collections/image_15.png?v=1747296824"
+    }
+  },
+  {
+    "id": 277344845882,
+    "handle": "handy-stander",
+    "title": "Handy-Ständer",
+    "updated_at": "2025-12-03T06:48:04+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:33:26+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Handy-Ständer"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344845882"
+  },
+  {
+    "id": 277344911418,
+    "handle": "hohenverstellbarer-arbeitstisch",
+    "title": "Höhenverstellbarer Arbeitstisch",
+    "updated_at": "2026-01-15T13:16:12+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:34:15+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Höhenverstellbarer Arbeitstisch"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344911418"
+  },
+  {
+    "id": 277345042490,
+    "handle": "kabel-organisation",
+    "title": "Kabel-Organisation",
+    "updated_at": "2026-01-04T13:15:19+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:43:56+01:00",
+    "sort_order": "manual",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Kabel-Organisation"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277345042490",
+    "image": {
+      "created_at": "2025-04-21T17:29:32+02:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0571/7930/8090/collections/image_31.png?v=1747295842"
+    }
+  },
+  {
+    "id": 277344190522,
+    "handle": "kassenladen",
+    "title": "Kassenladen",
+    "updated_at": "2026-01-13T13:15:19+01:00",
+    "body_html": "<h2><span style=\"color: #000000; font-family: Helvetica; font-size: medium;\">Seit über 20 Jahren ein Synonym für Verlässlichkeit.</span></h2>\n<p><span style=\"color: #000000; font-family: Helvetica; font-size: medium;\">Unsere Kassenschubladen sind seit mehr als zwei Jahrzehnten ein fester Bestandteil unseres Sortiments. Sie überzeugen durch ihre Robustheit und die einfache Handhabung im täglichen Gebrauch.</span></p>",
+    "published_at": "2025-01-10T13:19:47+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Kassenladen"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344190522",
+    "image": {
+      "created_at": "2025-03-06T11:28:24+01:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0571/7930/8090/collections/image_26.png?v=1747296893"
+    }
+  },
+  {
+    "id": 277344256058,
+    "handle": "kassenrollen",
+    "title": "Kassenrollen",
+    "updated_at": "2025-12-25T13:16:13+01:00",
+    "body_html": "<h2><span style=\"color: #000000; font-family: Helvetica; font-size: medium;\">Umweltbewusst und zuverlässig – FSC-zertifizierte Qualität.</span></h2>\n<p><span style=\"color: #000000; font-family: Helvetica; font-size: medium;\">Nachhaltigkeit steht bei unseren Kassenrollen im Fokus. Die FSC-zertifizierte Papierproduktion garantiert eine umweltfreundliche Lösung, ohne Kompromisse bei der Qualität einzugehen.</span></p>",
+    "published_at": "2025-01-10T13:20:18+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Kassenrollen"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344256058",
+    "image": {
+      "created_at": "2025-03-05T13:59:29+01:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0571/7930/8090/collections/image_14.png?v=1747297512"
+    }
+  },
+  {
+    "id": 277344157754,
+    "handle": "kassenschubladen-zubehor",
+    "title": "Kassenschubladen Zubehör",
+    "updated_at": "2026-01-14T13:16:56+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:19:33+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Kassenschubladen Zubehör"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344157754",
+    "image": {
+      "created_at": "2025-03-06T13:37:40+01:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0571/7930/8090/collections/image.jpg?v=1747296962"
+    }
+  },
+  {
+    "id": 277467004986,
+    "handle": "klemmbretter",
+    "title": "Klemmbretter",
+    "updated_at": "2025-12-03T10:12:21+01:00",
+    "body_html": "",
+    "published_at": "2025-01-22T10:37:24+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Klemmbretter"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277467004986"
+  },
+  {
+    "id": 277343731770,
+    "handle": "klemmschienen-sets",
+    "title": "Klemmschienen-Sets",
+    "updated_at": "2026-01-06T13:15:55+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:11:08+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Klemmschienen-Sets"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277343731770"
+  },
+  {
+    "id": 277344649274,
+    "handle": "kopfhorer-stander",
+    "title": "Kopfhörer-Ständer",
+    "updated_at": "2025-09-23T17:44:20+02:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:31:42+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Kopfhörer-Ständer"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344649274"
+  },
+  {
+    "id": 277344354362,
+    "handle": "kuchenzubehor",
+    "title": "Küchenzubehör",
+    "updated_at": "2025-12-11T13:20:12+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:23:30+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Küchenzubehör"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344354362"
+  },
+  {
+    "id": 277820047418,
+    "handle": "kunstlerbedarf",
+    "title": "Künstlerbedarf",
+    "updated_at": "2026-01-17T13:15:21+01:00",
+    "body_html": "",
+    "published_at": "2025-02-20T11:15:15+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "kuenstlerbedarf",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Künstlerbedarf"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277820047418"
+  },
+  {
+    "id": 277345009722,
+    "handle": "ladegerate",
+    "title": "Ladegeräte",
+    "updated_at": "2025-09-10T10:42:43+02:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:43:38+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Ladegerät"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277345009722"
+  },
+  {
+    "id": 277344419898,
+    "handle": "laminierfolien",
+    "title": "Laminierfolien",
+    "updated_at": "2026-01-21T13:14:16+01:00",
+    "body_html": "<h2><span style=\"color: #000000; font-family: Helvetica; font-size: medium;\">Bestbewertete Qualität für makellose Ergebnisse.</span></h2>\n<p><span style=\"color: #000000; font-family: Helvetica; font-size: medium;\">Unsere Laminierfolien sind die ideale Ergänzung für jedes Laminiergerät. Sie garantieren kristallklare Ergebnisse und gehören zu den meistverkauften Produkten auf großen Marktplätzen wie auf BOL.com.</span></p>",
+    "published_at": "2025-01-10T13:24:41+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Laminierfolien"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344419898",
+    "image": {
+      "created_at": "2025-02-28T17:45:54+01:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0571/7930/8090/collections/image_10.png?v=1747296578"
+    }
+  },
+  {
+    "id": 277344387130,
+    "handle": "laminiergerate",
+    "title": "Laminiergeräte",
+    "updated_at": "2026-01-10T13:15:32+01:00",
+    "body_html": "<h2><span style=\"color: #000000; font-family: Helvetica; font-size: medium;\">Für perfekte Ergebnisse – mehrfach ausgezeichnet.</span></h2>\n<p><span style=\"color: #000000; font-family: Helvetica; font-size: medium;\">Unsere Laminiergeräte gehören zu den bestbewerteten Produkten auf großen Marktplätzen wie auf BOL.com. Sie sind ideal für Büro, Schule oder kreative Projekte und garantieren ein professionelles Finish bei jedem Einsatz.</span></p>",
+    "published_at": "2025-01-10T13:24:01+01:00",
+    "sort_order": "manual",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Laminiergeräte"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344387130",
+    "image": {
+      "created_at": "2025-02-28T11:28:15+01:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0571/7930/8090/collections/image_8.png?v=1747296652"
+    }
+  },
+  {
+    "id": 277344682042,
+    "handle": "laptop-stander",
+    "title": "Laptop-Ständer",
+    "updated_at": "2025-12-03T06:47:15+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:32:03+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Laptop-Ständer"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344682042"
+  },
+  {
+    "id": 277344976954,
+    "handle": "lcd-schreibtafel",
+    "title": "LCD Schreibtafel",
+    "updated_at": "2025-12-03T07:14:09+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:42:15+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "LCD Schreibtafel"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344976954",
+    "image": {
+      "created_at": "2025-03-06T09:29:10+01:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0571/7930/8090/collections/image_22.png?v=1747297257"
+    }
+  },
+  {
+    "id": 277344944186,
+    "handle": "leinwande",
+    "title": "Leinwände",
+    "updated_at": "2025-12-03T11:07:57+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:41:57+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Leinwände"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344944186"
+  },
+  {
+    "id": 277344780346,
+    "handle": "monitor-stander",
+    "title": "Monitor-Ständer",
+    "updated_at": "2026-01-04T13:15:19+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:32:49+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Monitor-Ständer"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344780346"
+  },
+  {
+    "id": 277344747578,
+    "handle": "monitorarme",
+    "title": "Monitorarme",
+    "updated_at": "2025-12-04T13:19:05+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:32:21+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Monitorarme"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344747578",
+    "image": {
+      "created_at": "2025-03-06T10:56:45+01:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0571/7930/8090/collections/image_25.png?v=1747297387"
+    }
+  },
+  {
+    "id": 277466546234,
+    "handle": "notizbucher",
+    "title": "Notizbücher",
+    "updated_at": "2025-12-03T10:05:55+01:00",
+    "body_html": "",
+    "published_at": "2025-01-22T10:29:27+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Notizbücher"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277466546234"
+  },
+  {
+    "id": 277343830074,
+    "handle": "ordner",
+    "title": "Ordner",
+    "updated_at": "2026-01-16T13:15:25+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:11:54+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Ordner"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277343830074",
+    "image": {
+      "created_at": "2025-01-14T15:47:11+01:00",
+      "alt": null,
+      "width": 1822,
+      "height": 1200,
+      "src": "https://cdn.shopify.com/s/files/1/0571/7930/8090/collections/H15_NatureCollection_a381fe5f-0477-42e6-83a3-acd6ec0eec34.jpg?v=1736866031"
+    }
+  },
+  {
+    "id": 277467168826,
+    "handle": "ordner-und-mappen",
+    "title": "Ordner und Mappen",
+    "updated_at": "2026-01-21T13:14:16+01:00",
+    "body_html": "",
+    "published_at": "2025-01-22T10:40:13+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Ordner und Mappen"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277467168826"
+  },
+  {
+    "id": 277467136058,
+    "handle": "organisation-und-archivierung",
+    "title": "Organisation und Archivierung",
+    "updated_at": "2026-01-21T13:14:16+01:00",
+    "body_html": "",
+    "published_at": "2025-01-22T10:39:54+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "archivieren",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Organisation und Archivierung"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277467136058"
+  },
+  {
+    "id": 277344452666,
+    "handle": "papierschneider",
+    "title": "Papierschneider",
+    "updated_at": "2025-12-22T09:17:44+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:25:02+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Papierschneider"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344452666",
+    "image": {
+      "created_at": "2025-03-05T18:34:05+01:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0571/7930/8090/collections/image_21.png?v=1747295506"
+    }
+  },
+  {
+    "id": 277344223290,
+    "handle": "pos-terminal-halterung",
+    "title": "POS Terminal Halterung",
+    "updated_at": "2025-09-10T10:42:41+02:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:20:04+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "POS Terminal Halterung"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344223290"
+  },
+  {
+    "id": 277345075258,
+    "handle": "power-banken",
+    "title": "Power-Banken",
+    "updated_at": "2025-09-10T10:42:44+02:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:44:11+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Power-Banken"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277345075258"
+  },
+  {
+    "id": 277466644538,
+    "handle": "puzzles",
+    "title": "Puzzles",
+    "updated_at": "2025-12-03T13:17:06+01:00",
+    "body_html": "",
+    "published_at": "2025-01-22T10:33:21+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Puzzles"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277466644538"
+  },
+  {
+    "id": 277343895610,
+    "handle": "reissverschluss-beutel",
+    "title": "Reißverschluss-Beutel",
+    "updated_at": "2025-12-03T10:43:54+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:12:42+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Reißverschluss-Beutel"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277343895610"
+  },
+  {
+    "id": 277467299898,
+    "handle": "rest",
+    "title": "Rest",
+    "updated_at": "2026-01-07T13:15:31+01:00",
+    "body_html": "",
+    "published_at": "2025-01-22T10:41:54+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Rest"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277467299898"
+  },
+  {
+    "id": 277343862842,
+    "handle": "ringbuch",
+    "title": "Ringbücher",
+    "updated_at": "2026-01-17T13:15:21+01:00",
+    "body_html": "<h3 data-start=\"266\" data-end=\"329\">Stylische Ringbücher &amp; Ordner – unsere Bestseller-Kollektion</h3>\n<p data-start=\"331\" data-end=\"675\" class=\"\">Wer Ordnung mit Stil verbinden will, ist hier genau richtig. Unsere <strong data-start=\"399\" data-end=\"416\">Ringbücher A4</strong> gehören aktuell zu den <strong data-start=\"440\" data-end=\"469\">Bestsellern auf dem Markt</strong> – beliebt bei Kunden, die nicht nur praktisch denken, sondern auch Wert auf Design legen. Ob für die Schule, das Büro oder zu Hause – ein guter <strong data-start=\"614\" data-end=\"624\">Ordner</strong> schafft Übersicht und bringt Ruhe ins Papierchaos.</p>\n<p data-start=\"677\" data-end=\"1068\" class=\"\">Unsere Kollektion besteht aus mehreren <strong data-start=\"716\" data-end=\"732\">Farbpaletten</strong>, inspiriert von Naturelementen: <strong data-start=\"765\" data-end=\"778\">Farbbogen</strong>, <strong data-start=\"780\" data-end=\"788\">Erde</strong>, <strong data-start=\"790\" data-end=\"800\">Wasser</strong> und mehr. Jede Linie umfasst verschiedene Farben und ist erhältlich mit <strong data-start=\"873\" data-end=\"892\">2 oder 4 Ringen</strong> sowie in mehreren <strong data-start=\"911\" data-end=\"928\">Rückenbreiten</strong>. Besonders gefragt ist unser <strong data-start=\"958\" data-end=\"978\">Ordner A4 schmal</strong> – perfekt, wenn wenig Platz zur Verfügung steht, aber trotzdem viel geordnet werden soll.</p>\n<p data-start=\"1070\" data-end=\"1402\" class=\"\">Auch im Bereich <strong data-start=\"1086\" data-end=\"1103\">Ringordner A4</strong>, <strong data-start=\"1105\" data-end=\"1129\">Ringordner A4 schmal</strong> und klassischem <strong data-start=\"1146\" data-end=\"1156\">Hefter</strong> findest du bei uns eine große Auswahl. Wer lieber eine kompakte Lösung für unterwegs sucht, wird unsere <strong data-start=\"1261\" data-end=\"1277\">Ringmappe A4</strong> zu schätzen wissen. Natürlich bieten wir auch klassische <strong data-start=\"1335\" data-end=\"1349\">Ringordner</strong> in modernen Farben, passend zur jeweiligen Umgebung.</p>\n<p data-start=\"1404\" data-end=\"1664\" class=\"\">Ideal für Schule und Büro: Unsere Ringbücher sind Teil eines durchdachten <strong data-start=\"1478\" data-end=\"1494\">Schreibwaren</strong>-Sortiments, das Funktionalität mit Stil verbindet. Viele Kunden nutzen unsere Sets mit <strong data-start=\"1582\" data-end=\"1600\">8 bis 12 Stück</strong> – optimal für die strukturierte Ablage nach Themen oder Farben.</p>\n<p data-start=\"1666\" data-end=\"1807\" class=\"\">Ob <strong data-start=\"1669\" data-end=\"1686\">Ordner schmal</strong>, modernes <strong data-start=\"1697\" data-end=\"1709\">Ringbuch</strong> oder klassischer Hefter – hier findest du das passende System, um Papier elegant zu organisieren.</p>",
+    "published_at": "2025-01-10T13:12:17+01:00",
+    "sort_order": "manual",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Ringbuch"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277343862842",
+    "image": {
+      "created_at": "2025-03-04T20:29:01+01:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0571/7930/8090/collections/image_12.png?v=1747297158"
+    }
+  },
+  {
+    "id": 277466579002,
+    "handle": "rucksacke",
+    "title": "Rucksäcke",
+    "updated_at": "2025-11-24T13:17:22+01:00",
+    "body_html": "",
+    "published_at": "2025-01-22T10:29:56+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Rucksäcke"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277466579002"
+  },
+  {
+    "id": 277466742842,
+    "handle": "sammelmappen",
+    "title": "Sammelmappen",
+    "updated_at": "2025-12-03T11:10:14+01:00",
+    "body_html": "",
+    "published_at": "2025-01-22T10:34:36+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Sammelmappen"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277466742842",
+    "image": {
+      "created_at": "2025-03-06T12:17:04+01:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0571/7930/8090/collections/image_27.png?v=1747297569"
+    }
+  },
+  {
+    "id": 277343928378,
+    "handle": "schlusselkasten",
+    "title": "Schlüsselkästen",
+    "updated_at": "2026-01-05T13:15:41+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:13:12+01:00",
+    "sort_order": "manual",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Schlüsselkästen"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277343928378"
+  },
+  {
+    "id": 277344583738,
+    "handle": "schneidematten",
+    "title": "Schneidematten",
+    "updated_at": "2025-12-13T13:20:12+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:26:14+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Schneidematten"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344583738",
+    "image": {
+      "created_at": "2025-03-05T13:58:13+01:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0571/7930/8090/collections/image_16.png?v=1747295945"
+    }
+  },
+  {
+    "id": 277466972218,
+    "handle": "schnellhefter",
+    "title": "Schnellhefter",
+    "updated_at": "2025-12-03T10:38:21+01:00",
+    "body_html": "",
+    "published_at": "2025-01-22T10:37:05+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Schnellhefter"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277466972218"
+  },
+  {
+    "id": 277344616506,
+    "handle": "schreibunterlagen",
+    "title": "Schreibunterlagen",
+    "updated_at": "2025-12-03T10:09:55+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:31:21+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Schreibunterlagen"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344616506"
+  },
+  {
+    "id": 277467234362,
+    "handle": "schreibwaren",
+    "title": "Schreibwaren",
+    "updated_at": "2026-01-17T13:15:21+01:00",
+    "body_html": "",
+    "published_at": "2025-01-22T10:40:54+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Schreibware"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277467234362"
+  },
+  {
+    "id": 277467201594,
+    "handle": "schulbedarf",
+    "title": "Schulbedarf",
+    "updated_at": "2026-01-17T13:15:21+01:00",
+    "body_html": "",
+    "published_at": "2025-01-22T10:40:37+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Schulbedarf"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277467201594"
+  },
+  {
+    "id": 277466939450,
+    "handle": "sichtbucher",
+    "title": "Sichtbücher",
+    "updated_at": "2025-12-03T07:52:52+01:00",
+    "body_html": "",
+    "published_at": "2025-01-22T10:36:48+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Sichtbücher"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277466939450"
+  },
+  {
+    "id": 277345140794,
+    "handle": "smarte-steckdosen",
+    "title": "Smarte Steckdosen",
+    "updated_at": "2025-12-03T10:10:37+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:44:44+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Smarte Steckdosen"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277345140794"
+  },
+  {
+    "id": 277467332666,
+    "handle": "spielen-und-geschenke",
+    "title": "Spielen und Geschenke",
+    "updated_at": "2025-12-03T13:17:06+01:00",
+    "body_html": "",
+    "published_at": "2025-01-22T10:42:16+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Spielen und Geschenke"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277467332666"
+  },
+  {
+    "id": 277345108026,
+    "handle": "steckdosenleisten",
+    "title": "Steckdosenleisten",
+    "updated_at": "2025-12-03T07:36:23+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:44:28+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Steckdosenleisten"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277345108026"
+  },
+  {
+    "id": 277344813114,
+    "handle": "stiftehalter",
+    "title": "Stiftehalter",
+    "updated_at": "2025-12-03T07:56:25+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:33:08+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Stiftehalter"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344813114"
+  },
+  {
+    "id": 277343961146,
+    "handle": "taschen",
+    "title": "Taschen",
+    "updated_at": "2025-09-10T10:42:41+02:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:13:29+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Taschen"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277343961146"
+  },
+  {
+    "id": 277344550970,
+    "handle": "taschenrechner",
+    "title": "Taschenrechner",
+    "updated_at": "2026-01-15T13:16:12+01:00",
+    "body_html": "<h2><span style=\"color: #000000; font-family: Helvetica; font-size: medium;\">Mehr als 1 Million Taschenrechner verkauft – eine Erfolgsgeschichte.</span></h2>\n<p><span style=\"color: #000000; font-family: Helvetica; font-size: medium;\">Unsere Taschenrechner gehören zu den meistverkauften Großtasten-Modellen auf großen Marktplätzen wie auf BOL.com. Mit über 1 Million verkauften Einheiten sind sie ein Symbol für unsere Innovationskraft und Kundenorientierung.</span></p>",
+    "published_at": "2025-01-10T13:25:57+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Taschenrechner"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344550970",
+    "image": {
+      "created_at": "2025-03-05T14:38:18+01:00",
+      "alt": null,
+      "width": 1500,
+      "height": 1500,
+      "src": "https://cdn.shopify.com/s/files/1/0571/7930/8090/collections/image_19.png?v=1747297013"
+    }
+  },
+  {
+    "id": 277345173562,
+    "handle": "usb-hubs",
+    "title": "USB-Hubs",
+    "updated_at": "2025-12-03T07:33:51+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:45:00+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "USB-Hubs"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277345173562"
+  },
+  {
+    "id": 277344059450,
+    "handle": "versteckte-safes",
+    "title": "Versteckte Safes",
+    "updated_at": "2025-12-03T11:06:24+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:14:09+01:00",
+    "sort_order": "best-selling",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Versteckter Safes"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277344059450"
+  },
+  {
+    "id": 277343993914,
+    "handle": "zeichnungsmappen",
+    "title": "Zeichnungsmappen",
+    "updated_at": "2026-01-17T13:15:21+01:00",
+    "body_html": "",
+    "published_at": "2025-01-10T13:13:44+01:00",
+    "sort_order": "manual",
+    "template_suffix": "",
+    "disjunctive": false,
+    "rules": [
+      {
+        "column": "tag",
+        "relation": "equals",
+        "condition": "Zeichnungsmappen"
+      }
+    ],
+    "published_scope": "global",
+    "admin_graphql_api_id": "gid://shopify/Collection/277343993914",
+    "image": {
+      "created_at": "2025-03-05T09:09:11+01:00",
+      "alt": null,
+      "width": 751,
+      "height": 752,
+      "src": "https://cdn.shopify.com/s/files/1/0571/7930/8090/collections/image_13.png?v=1741162151"
+    }
+  }
+]

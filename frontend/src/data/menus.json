@@ -1,0 +1,442 @@
+[
+  {
+    "id": "gid://shopify/Menu/188551692346",
+    "handle": "main-menu",
+    "title": "Main menu",
+    "items": [
+      {
+        "id": "gid://shopify/MenuItem/444417540154",
+        "title": "Bürogeräte",
+        "url": "/en/collections/burogerate-und-zubehor",
+        "type": "COLLECTION",
+        "items": [
+          {
+            "id": "gid://shopify/MenuItem/444417572922",
+            "title": "Laminiergeräte",
+            "url": "/en/collections/laminiergerate",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/444417605690",
+            "title": "Laminierfolien",
+            "url": "/en/collections/laminierfolien",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/444417638458",
+            "title": "Aktenvernichter",
+            "url": "/en/collections/aktenvernichter",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/444417671226",
+            "title": "Taschenrechner",
+            "url": "/en/collections/taschenrechner",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/444417703994",
+            "title": "Schneidematten",
+            "url": "/en/collections/schneidematten",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/444417736762",
+            "title": "Papierschneider",
+            "url": "/en/collections/papierschneider",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/444417769530",
+            "title": "Anspitzer",
+            "url": "/en/collections/anspitzer",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/444417802298",
+            "title": "Küchenzubehör",
+            "url": "/en/collections/kuchenzubehor",
+            "type": "COLLECTION",
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/MenuItem/444228042810",
+        "title": "Büroorganisation",
+        "url": "/en/collections/organisation-und-archivierung",
+        "type": "COLLECTION",
+        "items": [
+          {
+            "id": "gid://shopify/MenuItem/444228141114",
+            "title": "Fotoalben",
+            "url": "/en/collections/fotoalben",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/444228173882",
+            "title": "Klemmschinen-Sets",
+            "url": "/en/collections/klemmschienen-sets",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/444228206650",
+            "title": "Büro Diverses",
+            "url": "/en/collections/buro-diverses",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/444228239418",
+            "title": "Ordner",
+            "url": "/en/collections/ordner",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/444228272186",
+            "title": "Ringbuch",
+            "url": "/en/collections/ringbuch",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/444228304954",
+            "title": "Reißverschluss-Beutel",
+            "url": "/en/collections/reissverschluss-beutel",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/444228337722",
+            "title": "Schlüsselkästen",
+            "url": "/en/collections/schlusselkasten",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/444228403258",
+            "title": "Zeichnungsmappen",
+            "url": "/en/collections/zeichnungsmappen",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/444228436026",
+            "title": "Versteckte Safes",
+            "url": "/en/collections/versteckte-safes",
+            "type": "COLLECTION",
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/MenuItem/442697678906",
+        "title": "Geldkassetten & Kassenschubladen",
+        "url": "/en/collections/cash-handling",
+        "type": "COLLECTION",
+        "items": [
+          {
+            "id": "gid://shopify/MenuItem/442698858554",
+            "title": "Geldkassetten",
+            "url": "/en/collections/geldkassetten",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/442698891322",
+            "title": "Kassenschubladen-Zubehör",
+            "url": "/en/collections/kassenschubladen-zubehor",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/442698924090",
+            "title": "Kassenladen",
+            "url": "/en/collections/kassenladen",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/449549238330",
+            "title": "Kassenrollen",
+            "url": "/en/collections/kassenrollen",
+            "type": "COLLECTION",
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/MenuItem/442697744442",
+        "title": "Arbeitsergonomie",
+        "url": "/en/collections/arbeitsergonomie",
+        "type": "COLLECTION",
+        "items": [
+          {
+            "id": "gid://shopify/MenuItem/442699513914",
+            "title": "Schreibunterlagen",
+            "url": "/en/collections/schreibunterlagen",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/442699546682",
+            "title": "Kopfhörer-Ständer",
+            "url": "/en/collections/kopfhorer-stander",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/442699579450",
+            "title": "Laptop-Ständer",
+            "url": "/en/collections/laptop-stander",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/442699644986",
+            "title": "Monitor-Ständer",
+            "url": "/en/collections/monitor-stander",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/452414439482",
+            "title": "Monitorarme",
+            "url": "/en/collections/monitorarme",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/442699677754",
+            "title": "Stiftehalter",
+            "url": "/en/collections/stiftehalter",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/442699743290",
+            "title": "Fußstützen",
+            "url": "/en/collections/fussstutzen",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/442699776058",
+            "title": "Höhenverstellbarer Arbeitstisch",
+            "url": "/en/collections/hohenverstellbarer-arbeitstisch",
+            "type": "COLLECTION",
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/MenuItem/442697777210",
+        "title": "Künstlerbedarf",
+        "url": "/en/collections/kunstlerbedarf",
+        "type": "COLLECTION",
+        "items": [
+          {
+            "id": "gid://shopify/MenuItem/442699841594",
+            "title": "LCD Schreibtafel",
+            "url": "/en/collections/lcd-schreibtafel",
+            "type": "COLLECTION",
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "gid://shopify/MenuItem/442697809978",
+        "title": "Elektronikzubehör",
+        "url": "/en/collections/elektronikzubehor",
+        "type": "COLLECTION",
+        "items": [
+          {
+            "id": "gid://shopify/MenuItem/442700103738",
+            "title": "Kabel-Organisation",
+            "url": "/en/collections/kabel-organisation",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/442700169274",
+            "title": "Steckdosenleisten",
+            "url": "/en/collections/steckdosenleisten",
+            "type": "COLLECTION",
+            "items": []
+          },
+          {
+            "id": "gid://shopify/MenuItem/445919920186",
+            "title": "LCD Schreibtafel",
+            "url": "/en/collections/lcd-schreibtafel",
+            "type": "COLLECTION",
+            "items": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Menu/188551725114",
+    "handle": "footer",
+    "title": "Footer menu",
+    "items": [
+      {
+        "id": "gid://shopify/MenuItem/441569902650",
+        "title": "Search",
+        "url": "/en/search",
+        "type": "SEARCH",
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Menu/188551757882",
+    "handle": "customer-account-main-menu",
+    "title": "Customer account main menu",
+    "items": [
+      {
+        "id": "gid://shopify/MenuItem/441569935418",
+        "title": "Shop",
+        "url": "/en",
+        "type": "FRONTPAGE",
+        "items": []
+      },
+      {
+        "id": "gid://shopify/MenuItem/441569968186",
+        "title": "Orders",
+        "url": "https://shopify.com/57179308090/account/orders",
+        "type": "CUSTOMER_ACCOUNT_PAGE",
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Menu/189056286778",
+    "handle": "service",
+    "title": "Service",
+    "items": [
+      {
+        "id": "gid://shopify/MenuItem/442806501434",
+        "title": "Hilfe / Häufig gestellte Fragen",
+        "url": "/en/search",
+        "type": "SEARCH",
+        "items": []
+      },
+      {
+        "id": "gid://shopify/MenuItem/442806534202",
+        "title": "Kundenkonto",
+        "url": "/en/search",
+        "type": "SEARCH",
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Menu/189056319546",
+    "handle": "acropaq",
+    "title": "ACROPAQ",
+    "items": [
+      {
+        "id": "gid://shopify/MenuItem/442806566970",
+        "title": "Über uns",
+        "url": "/en/pages/uber-uns",
+        "type": "PAGE",
+        "items": []
+      },
+      {
+        "id": "gid://shopify/MenuItem/445925457978",
+        "title": "Kontakt",
+        "url": "/en/pages/contact",
+        "type": "PAGE",
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Menu/189056352314",
+    "handle": "rechtliches",
+    "title": "Rechtliches",
+    "items": [
+      {
+        "id": "gid://shopify/MenuItem/442806665274",
+        "title": "Impressum",
+        "url": "/en/policies/legal-notice",
+        "type": "SHOP_POLICY",
+        "items": []
+      },
+      {
+        "id": "gid://shopify/MenuItem/442806599738",
+        "title": "AGB",
+        "url": "/en/policies/terms-of-service",
+        "type": "SHOP_POLICY",
+        "items": []
+      },
+      {
+        "id": "gid://shopify/MenuItem/442806632506",
+        "title": "Datenschutz",
+        "url": "/en/policies/privacy-policy",
+        "type": "SHOP_POLICY",
+        "items": []
+      },
+      {
+        "id": "gid://shopify/MenuItem/445958062138",
+        "title": "Versandinformationen",
+        "url": "/en/policies/shipping-policy",
+        "type": "SHOP_POLICY",
+        "items": []
+      },
+      {
+        "id": "gid://shopify/MenuItem/446190682170",
+        "title": "Haftungsausschluss",
+        "url": "/en/policies/refund-policy",
+        "type": "SHOP_POLICY",
+        "items": []
+      }
+    ]
+  },
+  {
+    "id": "gid://shopify/Menu/189056483386",
+    "handle": "quicklinks-und-tipps",
+    "title": "Quicklinks und Tipps",
+    "items": [
+      {
+        "id": "gid://shopify/MenuItem/442806894650",
+        "title": "Laminiergeräte",
+        "url": "/en/search",
+        "type": "SEARCH",
+        "items": []
+      },
+      {
+        "id": "gid://shopify/MenuItem/442806927418",
+        "title": "Ringbücher und Ordner",
+        "url": "/en/search",
+        "type": "SEARCH",
+        "items": []
+      },
+      {
+        "id": "gid://shopify/MenuItem/442806960186",
+        "title": "Kassenladen",
+        "url": "/en/search",
+        "type": "SEARCH",
+        "items": []
+      },
+      {
+        "id": "gid://shopify/MenuItem/442806992954",
+        "title": "Geldkassetten",
+        "url": "/en/search",
+        "type": "SEARCH",
+        "items": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Brown';
+    src: url('https://cdn.shopify.com/s/files/1/0571/7930/8090/files/Brown-Regular.woff2?v=1736782156') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sequel Geo Display';
+    src: url('https://cdn.shopify.com/s/files/1/0571/7930/8090/files/SequelGeo-DisplayBold.woff2?v=1736782156') format('woff2');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
