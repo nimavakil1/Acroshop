@@ -8,46 +8,57 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        // Acropaq brand colors - customize based on Shopify theme
-        primary: {
-          50: "#f0f9ff",
-          100: "#e0f2fe",
-          200: "#bae6fd",
-          300: "#7dd3fc",
-          400: "#38bdf8",
-          500: "#0ea5e9",
-          600: "#0284c7",
-          700: "#0369a1",
-          800: "#075985",
-          900: "#0c4a6e",
-          950: "#082f49",
+        // Acropaq brand colors from Shopify theme
+        body: {
+          bg: "#F5F5F5",
+          text: "#2c2d2e",
         },
-        secondary: {
-          50: "#f8fafc",
-          100: "#f1f5f9",
-          200: "#e2e8f0",
-          300: "#cbd5e1",
-          400: "#94a3b8",
-          500: "#64748b",
-          600: "#475569",
-          700: "#334155",
-          800: "#1e293b",
-          900: "#0f172a",
-          950: "#020617",
+        heading: "#1a1c1d",
+        accent: "#27ae60",
+        "accent-blue": "#3f72e5",
+        announcement: {
+          bg: "#d1eef2",
+          text: "#2C2D2E",
+        },
+        button: {
+          bg: "#2c2d2e",
+          text: "#ffffff",
+        },
+        footer: {
+          bg: "#2c2d2e",
+          text: "#DADCE0",
+          link: "#aaaeb6",
+          border: "#868d94",
+        },
+        card: {
+          bg: "#ffffff",
+        },
+        sale: "#c62a32",
+        marker: {
+          green: "#baddc9",
+          orange: "#ffdabb",
+          red: "#fd6262",
+          peach: "#ffe8d6",
         },
       },
       fontFamily: {
-        sans: ["Inter", "system-ui", "sans-serif"],
+        sans: ["Roboto", "system-ui", "sans-serif"],
         heading: ["Inter", "system-ui", "sans-serif"],
       },
-      spacing: {
-        "18": "4.5rem",
-        "88": "22rem",
-        "128": "32rem",
-      },
       maxWidth: {
-        "8xl": "88rem",
-        "9xl": "96rem",
+        container: "1400px",
+      },
+      spacing: {
+        section: "80px",
+        "section-mobile": "40px",
+      },
+      boxShadow: {
+        card: "0 2px 8px rgba(0, 0, 0, 0.08)",
+        "card-hover": "0 4px 16px rgba(0, 0, 0, 0.12)",
+        header: "0 1px 3px rgba(0, 0, 0, 0.1)",
+      },
+      borderRadius: {
+        badge: "14px",
       },
     },
   },

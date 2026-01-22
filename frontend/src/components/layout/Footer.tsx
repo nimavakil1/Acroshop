@@ -1,56 +1,82 @@
 import Link from "next/link";
 
-const footerLinks = {
-  shop: [
-    { name: "All Products", href: "/products" },
-    { name: "Collections", href: "/collections" },
-    { name: "New Arrivals", href: "/products?sort=newest" },
-    { name: "Best Sellers", href: "/products?sort=bestseller" },
-  ],
-  support: [
-    { name: "Contact Us", href: "/contact" },
-    { name: "FAQ", href: "/faq" },
-    { name: "Shipping Info", href: "/shipping" },
-    { name: "Returns", href: "/returns" },
-  ],
-  company: [
-    { name: "About Us", href: "/about" },
-    { name: "B2B Information", href: "/b2b" },
-    { name: "Terms & Conditions", href: "/terms" },
-    { name: "Privacy Policy", href: "/privacy" },
-  ],
+// Footer menus from Shopify
+const footerMenus = {
+  acropaq: {
+    title: "ACROPAQ",
+    items: [
+      { name: "Über uns", href: "/pages/uber-uns" },
+      { name: "Kontakt", href: "/pages/contact" },
+    ],
+  },
+  information: {
+    title: "Information",
+    items: [
+      { name: "Impressum", href: "/policies/legal-notice" },
+      { name: "AGB", href: "/policies/terms-of-service" },
+      { name: "Datenschutz", href: "/policies/privacy-policy" },
+      { name: "Versandinformationen", href: "/policies/shipping-policy" },
+      { name: "Haftungsausschluss", href: "/policies/refund-policy" },
+    ],
+  },
+  quicklinks: {
+    title: "Quicklinks & Tipps",
+    items: [
+      { name: "Laminiergeräte", href: "/collections/laminiergerate" },
+      { name: "Ringbücher und Ordner", href: "/collections/ordner" },
+      { name: "Kassenladen", href: "/collections/kassenladen" },
+      { name: "Geldkassetten", href: "/collections/geldkassetten" },
+    ],
+  },
 };
 
 export default function Footer() {
   return (
-    <footer className="bg-gray-900 text-gray-300">
-      <div className="container-custom py-12">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-          {/* Brand */}
+    <footer className="bg-footer-bg text-footer-text">
+      <div className="container-acropaq py-12 lg:py-16">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-12">
+          {/* Brand Section */}
           <div>
-            <Link href="/" className="flex items-center mb-4">
-              <span className="text-2xl font-bold text-white">Acropaq</span>
-              <span className="text-2xl font-light text-gray-400 ml-1">Shop</span>
+            <Link href="/" className="inline-block mb-4">
+              <span className="text-2xl font-heading font-bold text-white">
+                ACROPAQ
+              </span>
             </Link>
-            <p className="text-sm text-gray-400 mb-4">
-              Quality office supplies and business equipment for professionals across Europe.
+            <p className="text-sm text-footer-link mb-4">
+              Büro und Homeoffice-Bedarf in bester Qualität. Seit 2001 im Herzen
+              Europas zuhause.
             </p>
-            <div className="space-y-1 text-sm">
+            <div className="space-y-1 text-sm text-footer-link">
               <p>Acropaq NV</p>
-              <p>Ternat, Belgium</p>
-              <p>VAT: BE0XXX.XXX.XXX</p>
+              <p>Brüssel, Belgien</p>
+            </div>
+
+            {/* Social Links */}
+            <div className="flex space-x-4 mt-4">
+              <a
+                href="https://www.youtube.com/@acropaq"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-footer-link hover:text-white transition-colors"
+              >
+                <svg className="h-5 w-5" fill="currentColor" viewBox="0 0 24 24">
+                  <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" />
+                </svg>
+              </a>
             </div>
           </div>
 
-          {/* Shop links */}
+          {/* ACROPAQ Menu */}
           <div>
-            <h3 className="text-white font-semibold mb-4">Shop</h3>
+            <h3 className="text-white font-heading font-semibold mb-4">
+              {footerMenus.acropaq.title}
+            </h3>
             <ul className="space-y-2">
-              {footerLinks.shop.map((link) => (
+              {footerMenus.acropaq.items.map((link) => (
                 <li key={link.name}>
                   <Link
                     href={link.href}
-                    className="text-sm hover:text-white transition-colors"
+                    className="text-sm text-footer-link hover:text-white transition-colors"
                   >
                     {link.name}
                   </Link>
@@ -59,15 +85,17 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* Support links */}
+          {/* Information Menu */}
           <div>
-            <h3 className="text-white font-semibold mb-4">Support</h3>
+            <h3 className="text-white font-heading font-semibold mb-4">
+              {footerMenus.information.title}
+            </h3>
             <ul className="space-y-2">
-              {footerLinks.support.map((link) => (
+              {footerMenus.information.items.map((link) => (
                 <li key={link.name}>
                   <Link
                     href={link.href}
-                    className="text-sm hover:text-white transition-colors"
+                    className="text-sm text-footer-link hover:text-white transition-colors"
                   >
                     {link.name}
                   </Link>
@@ -76,15 +104,17 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* Company links */}
+          {/* Quicklinks Menu */}
           <div>
-            <h3 className="text-white font-semibold mb-4">Company</h3>
+            <h3 className="text-white font-heading font-semibold mb-4">
+              {footerMenus.quicklinks.title}
+            </h3>
             <ul className="space-y-2">
-              {footerLinks.company.map((link) => (
+              {footerMenus.quicklinks.items.map((link) => (
                 <li key={link.name}>
                   <Link
                     href={link.href}
-                    className="text-sm hover:text-white transition-colors"
+                    className="text-sm text-footer-link hover:text-white transition-colors"
                   >
                     {link.name}
                   </Link>
@@ -95,26 +125,58 @@ export default function Footer() {
         </div>
 
         {/* B2B Notice */}
-        <div className="mt-8 pt-8 border-t border-gray-800">
-          <div className="bg-gray-800 rounded-lg p-4 text-sm">
-            <h4 className="text-white font-semibold mb-2">B2B Customers</h4>
-            <p className="text-gray-400">
-              Business customers with a valid EU VAT number can benefit from reverse charge
-              (0% VAT). Enter your VAT number at checkout for automatic validation.
+        <div className="mt-10 pt-8 border-t border-footer-border">
+          <div className="bg-white/5 rounded-lg p-4 text-sm">
+            <h4 className="text-white font-heading font-semibold mb-2">
+              B2B-Kunden
+            </h4>
+            <p className="text-footer-link">
+              Geschäftskunden mit gültiger EU-USt-IdNr. profitieren von Reverse
+              Charge (0% USt.). Geben Sie Ihre USt-IdNr. an der Kasse ein für
+              automatische Validierung.
             </p>
           </div>
         </div>
 
-        {/* Copyright */}
-        <div className="mt-8 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-sm text-gray-400">
-            © {new Date().getFullYear()} Acropaq Shop. All rights reserved.
+        {/* Bottom Bar */}
+        <div className="mt-8 pt-8 border-t border-footer-border flex flex-col md:flex-row justify-between items-center gap-4">
+          {/* Copyright */}
+          <p className="text-sm text-footer-link">
+            © {new Date().getFullYear()} ACROPAQ. All rights reserved.
           </p>
-          <div className="flex space-x-4 mt-4 md:mt-0">
-            <img src="/payment-visa.svg" alt="Visa" className="h-8" />
-            <img src="/payment-mastercard.svg" alt="Mastercard" className="h-8" />
-            <img src="/payment-bancontact.svg" alt="Bancontact" className="h-8" />
-            <img src="/payment-ideal.svg" alt="iDEAL" className="h-8" />
+
+          {/* Language Selector */}
+          <div className="flex items-center gap-4">
+            <select className="bg-transparent border border-footer-border text-footer-link text-sm rounded px-3 py-1 focus:outline-none focus:border-white">
+              <option value="de">Deutsch</option>
+              <option value="en">English</option>
+              <option value="fr">Français</option>
+              <option value="nl">Nederlands</option>
+            </select>
+          </div>
+
+          {/* Payment Icons */}
+          <div className="flex items-center space-x-3">
+            <img
+              src="/payment-visa.svg"
+              alt="Visa"
+              className="h-6 opacity-70 hover:opacity-100 transition-opacity"
+            />
+            <img
+              src="/payment-mastercard.svg"
+              alt="Mastercard"
+              className="h-6 opacity-70 hover:opacity-100 transition-opacity"
+            />
+            <img
+              src="/payment-bancontact.svg"
+              alt="Bancontact"
+              className="h-6 opacity-70 hover:opacity-100 transition-opacity"
+            />
+            <img
+              src="/payment-ideal.svg"
+              alt="iDEAL"
+              className="h-6 opacity-70 hover:opacity-100 transition-opacity"
+            />
           </div>
         </div>
       </div>
